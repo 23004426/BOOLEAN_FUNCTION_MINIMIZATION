@@ -42,7 +42,7 @@ Hardware – PCs, Cyclone II , USB flasher
 
 ## RTL realization
 
-![WhatsApp Image 2024-03-21 at 09 41 32_04e598b9](https://github.com/saiganesh2006/BOOLEAN_FUNCTION_MINIMIZATION/assets/145742342/8338e349-458c-46ef-b1ef-ef14c8ad0c9b)
+![image](https://github.com/23004426/BOOLEAN_FUNCTION_MINIMIZATION/assets/144979327/3e4ca55e-7cea-473d-bbdf-b4c331d46bdd)
 
 ## Output:
 ![WhatsApp Image 2024-03-21 at 10 09 59_b3093f56](https://github.com/saiganesh2006/BOOLEAN_FUNCTION_MINIMIZATION/assets/145742342/64c064f4-deb4-43ca-a093-5b1e46334069)
