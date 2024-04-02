@@ -48,7 +48,7 @@ Hardware – PCs, Cyclone II , USB flasher
 ![image](https://github.com/23004426/BOOLEAN_FUNCTION_MINIMIZATION/assets/144979327/37433953-5ac7-4493-ae72-37757287da7e)
 
 ## Truth Table:
-![WhatsApp Image 2024-03-21 at 10 32 49_2730e433](https://github.com/saiganesh2006/BOOLEAN_FUNCTION_MINIMIZATION/assets/145742342/6531c9db-9ee9-4d21-b499-4ec401120053)
+![image](https://github.com/23004426/BOOLEAN_FUNCTION_MINIMIZATION/assets/144979327/0ed706e1-4c6c-400b-bb78-764fc3c479e3)
 
 ## Result:
 
